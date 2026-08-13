@@ -1,0 +1,5 @@
+# 隐私 / 缓存
+.workbuddy/
+.DS_Store
+__pycache__/
+*.pyc
