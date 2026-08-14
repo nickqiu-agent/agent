@@ -65,3 +65,4 @@ print(total)
 # if __name__ == "__main__":
 #     # 先保证事1 的痕迹也在：最低限度先能跑
 #     print("hello ai")
+
