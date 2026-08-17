@@ -53,16 +53,11 @@ print(a > b)
 # tasks = [("需求评审", 4), ("方案设计", 8), ("联调", 6)]
 # total = sum(h for _, h in tasks)
 # print("本周任务总工时:", total)
-
 checks = 4
 sj = 8
 lt = 6
-
 total = checks + sj + lt
 print(total)
-
-
 # if __name__ == "__main__":
 #     # 先保证事1 的痕迹也在：最低限度先能跑
 #     print("hello ai")
-
